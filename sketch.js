@@ -15,7 +15,7 @@ bedroom=loadImage("Bed Room.png");
 
 function setup() {
   database=firebase.database();
-  createCanvas(400,500);
+  createCanvas(400,1200);
   
   foodObj = new Food();
 
